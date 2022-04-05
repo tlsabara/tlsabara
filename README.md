@@ -8,9 +8,7 @@
 
 ### Hi there, im Thiago Luca Sabará 👋
 
-#### Infraestructure Analyst
-
-##### ✌ Mudando para a carreira de desenvolvimento. HeHe BOY!
+#### Programador Python e Analista de Infraestrutura
 
 ##### Alguns commits foram feitos, é um bom começo!! 
 - [x] python :+1:
