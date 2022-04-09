@@ -2,7 +2,7 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/tlsabara/">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tlsabara&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlsabara&langs_count=10&theme=slateorange"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlsabara&langs_count=4&theme=slateorange"/>
   </a>
 </div>
 
