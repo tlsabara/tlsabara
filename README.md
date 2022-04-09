@@ -6,13 +6,14 @@ from me import MyBrain
 
 eu = MyBrain
 
-eu.dormir()
-eu.comer()
-eu.codar()
-if eu.meta == 'Não alcançada':
+while eu.meta == 'Não alcançada':
+    eu.dormir()
+    eu.comer()
+    eu.codar()
+    eu.verificar_meta()
     eu.bora_repetir_tudo()
-else:
-    eu.bora_curtir()
+
+eu.bora_curtir()
 ```
 <div>
 <a href="https://www.linkedin.com/in/tlsabara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
