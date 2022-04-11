@@ -33,14 +33,14 @@ eu.bora_curtir()
 #### Linguagens:
 <div align="left">
   <a href="https://www.linkedin.com/in/tlsabara/">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlsabara&langs_count=4&theme=slateorange"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlsabara&langs_count=5&theme=slateorange"/>
   </a>
 </div>
 
 ##### Road to DevPython: 
 - [x] python :+1:
 - [x] RPA Python :+1:
-- [x] Testes 👍
+- [x] Testes :+1:
 - [ ] Django
 - [ ] Analise de dados
 - [ ] AI
