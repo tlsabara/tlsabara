@@ -23,6 +23,7 @@ eu.bora_curtir()
 </div>
 
 ---
+
 #### Git Stats:
 <div align="left">
   <a href="https://www.linkedin.com/in/tlsabara/">
@@ -45,16 +46,21 @@ eu.bora_curtir()
 - [ ] Analise de dados
 - [ ] AI
 ---
-<div>
+
 ### Libs
+
+<div>
+
   
 * **treglog** - A primeirinha!
   * https://github.com/tlsabara/treglog
   
 </div>
 ---
+
+### Badges:
+
 <div>
-### Badges
     <br>
     <img  height="100em" src="https://creds.arruda.io/events/devops_mao_na_massa_github/badge.png"/>
 </div>
