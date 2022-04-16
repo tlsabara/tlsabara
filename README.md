@@ -62,6 +62,8 @@ eu.bora_curtir()
 
 <div>
     <br>
-    <img  height="100em" src="https://creds.arruda.io/events/devops_mao_na_massa_github/badge.png"/>
+    <a href="https://creds.arruda.io/events/devops_mao_na_massa_github/e3715232-c3c6-4c76-ad49-525bb048b92f">
+        <img  height="100em" src="https://creds.arruda.io/events/devops_mao_na_massa_github/badge.png" alt="DevOps Mão na Massa GitHub" title="DevOps Mão na Massa GitHub" />
+    </a>
 </div>
 
