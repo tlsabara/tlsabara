@@ -52,5 +52,10 @@ eu.bora_curtir()
   * https://github.com/tlsabara/treglog
   
 </div>
-
+---
+<div>
+### Badges
+    <br>
+    <img  height="100em" src="https://creds.arruda.io/events/devops_mao_na_massa_github/badge.png"/>
+</div>
 
