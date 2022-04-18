@@ -41,7 +41,8 @@ eu.bora_curtir()
 ##### Road to DevPython: 
 - [x] python :+1:
 - [x] RPA Python :+1:
-- [x] Testes :+1:
+- [x] WebSraping :+1:
+- [ ] Testes 🎯
 - [ ] Django
 - [ ] Analise de dados
 - [ ] AI
