@@ -32,7 +32,7 @@ class Human:
     
 
 
-me = Human
+me = Human('tlsabara')
 
 while me.alive == True:
     me.code()
