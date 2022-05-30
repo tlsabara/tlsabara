@@ -43,7 +43,7 @@ eu.bora_curtir()
 - [x] RPA Python :+1:
 - [x] WebSraping :+1:
 - [ ] Testes 🎯
-- [ ] Django
+- [x] Django
 - [ ] Analise de dados
 - [ ] AI
 ---
