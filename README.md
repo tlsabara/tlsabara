@@ -4,16 +4,16 @@
 ```python
 from me import MyBrain
 
-eu = MyBrain
+pseudo_eu = MyBrain
 
-while eu.meta == 'Não alcançada':
-    eu.dormir()
-    eu.comer()
-    eu.codar()
-    eu.verificar_meta()
-    eu.bora_repetir_tudo()
+while pseudo_eu.meta == 'Não alcançada':
+    pseudo_eu.dormir()
+    pseudo_eu.comer()
+    pseudo_eu.codar()
+    pseudo_eu.verificar_meta()
+    pseudo_eu.bora_repetir_tudo()
 
-eu.bora_curtir()
+pseudo_eu.bora_curtir()
 ```
 <div>
 <a href="https://www.linkedin.com/in/tlsabara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
