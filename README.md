@@ -38,14 +38,20 @@ pseudo_eu.bora_curtir()
   </a>
 </div>
 
-##### Road to DevPython: 
+##### Road to ~~DevPython~~ FullStack Python: 
 - [x] python :+1:
 - [x] RPA Python :+1:
 - [x] WebSraping :+1:
+- [x] HTML/CSS/Bootstrap :+1:
 - [ ] Testes 🎯
 - [x] Django
+- [x] JavaScript
+- [x] Jquery
+- [ ] Ajax
+- [ ] TypeScript
 - [ ] Analise de dados
 - [ ] AI
+
 ---
 
 ### Libs
