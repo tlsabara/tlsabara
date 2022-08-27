@@ -51,6 +51,7 @@ pseudo_eu.bora_curtir()
 - [ ] TypeScript
 - [ ] Analise de dados
 - [ ] AI
+- [ ] Metaprogramming
 
 ---
 
