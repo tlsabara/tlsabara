@@ -8,7 +8,7 @@ pseudo_eu = MyBrain
 
 while pseudo_eu.meta == 'Não alcançada':
     pseudo_eu.dormir()
-    pseudo_eu.comer()
+    pseudo_eu.comer(maybe=True)
     pseudo_eu.codar()
     pseudo_eu.verificar_meta()
     pseudo_eu.bora_repetir_tudo()
@@ -48,6 +48,7 @@ pseudo_eu.bora_curtir()
 - [x] JavaScript
 - [x] Jquery
 - [ ] Ajax
+- [ ] Vue
 - [ ] TypeScript
 - [ ] Analise de dados
 - [ ] AI
