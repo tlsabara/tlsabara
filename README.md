@@ -43,7 +43,7 @@ pseudo_eu.bora_curtir()
 - [x] RPA Python :+1:
 - [x] WebSraping :+1:
 - [x] HTML/CSS/Bootstrap :+1:
-- [ ] Testes 🎯
+- [x] Testes 🎯
 - [x] Django
 - [x] JavaScript
 - [x] Jquery
@@ -52,7 +52,6 @@ pseudo_eu.bora_curtir()
 - [ ] TypeScript
 - [ ] Analise de dados
 - [ ] AI
-- [ ] Metaprogramming
 
 ---
 
