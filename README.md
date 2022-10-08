@@ -13,14 +13,8 @@ while pseudo_eu.meta == 'Não alcançada':
     pseudo_eu.verificar_meta()
     pseudo_eu.bora_repetir_tudo()
 
-pseudo_eu.bora_curtir()
+pseudo_eu.aprender_mais()
 ```
-<div>
-<a href="https://www.linkedin.com/in/tlsabara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- ![Snake animation](https://github.com/tlsabara/tlsabara/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 ---
 
