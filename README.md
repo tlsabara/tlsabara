@@ -1,5 +1,5 @@
 ## Hi there, im Thiago Luca Sabará 👋
-#### Programador Python e Analista de Infraestrutura 
+#### Programador Python com experiencia em Analista de Infraestrutura e Segurança
 #### Atividades:
 ```python
 from me import MyBrain
