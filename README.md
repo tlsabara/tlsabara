@@ -6,11 +6,11 @@ from me import MyBrain
 
 pseudo_eu = MyBrain
 
-while pseudo_eu.meta == 'Não alcançada':
+while pseudo_eu.meu_objetivo == 'Não alcançado':
     pseudo_eu.dormir()
     pseudo_eu.comer(maybe=True)
     pseudo_eu.codar()
-    pseudo_eu.verificar_meta()
+    pseudo_eu.verificar_objetivo()
     pseudo_eu.bora_repetir_tudo()
 
 pseudo_eu.aprender_mais()
