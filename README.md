@@ -1,19 +1,19 @@
-## Hi there, im Thiago Luca Sabará 👋
+## Hi there, im Thiago Sabará 👋
 #### Programador Python com experiencia em Analista de Infraestrutura e Segurança
 #### Atividades:
 ```python
-from me import MyBrain
+from me_in_codes import MyMind
 
-pseudo_eu = MyBrain
+meta_eu = MyMind
 
-while pseudo_eu.meu_objetivo == 'Não alcançado':
-    pseudo_eu.dormir()
-    pseudo_eu.comer(maybe=True)
-    pseudo_eu.codar()
-    pseudo_eu.verificar_objetivo()
-    pseudo_eu.bora_repetir_tudo()
+while meta_eu.meu_objetivo == 'Não alcançado':
+    meta_eu.dormir()
+    meta_eu.comer(maybe=True)
+    meta_eu.codar()
+    meta_eu.aprender_mais()
+    meta_eu.verificar_objetivo()
+    meta_eu.bora_repetir_tudo()
 
-pseudo_eu.aprender_mais()
 ```
 
 ---
