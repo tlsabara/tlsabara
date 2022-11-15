@@ -36,6 +36,7 @@ while meta_eu.meu_objetivo == 'Não alcançado':
 - [x] python :+1:
 - [x] RPA Python :+1:
 - [x] WebSraping :+1:
+- [x] Analise de Dados :+1:
 - [x] HTML/CSS/Bootstrap :+1:
 - [x] Testes 🎯
 - [x] Django
