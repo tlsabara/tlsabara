@@ -1,5 +1,5 @@
 ## Hi there, im Thiago Sabará 👋
-#### Programador Python com experiencia em Analista de Infraestrutura e Segurança e Analise de dados 
+#### Programador Python com experiencia em Analise de dados 
 #### Atividades:
 ```python
 from me_in_codes import MyMind
