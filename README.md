@@ -25,13 +25,6 @@ while meta_eu.meu_objetivo == 'Não alcançado':
   </a>
 </div>
 
-#### Linguagens:
-<div align="left">
-  <a href="https://www.linkedin.com/in/tlsabara/">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlsabara&langs_count=5&theme=slateorange"/>
-  </a>
-</div>
-
 ##### Road to ~~DevPython~~ FullStack Python: 
 - [x] python :+1:
 - [x] RPA Python :+1:
