@@ -35,11 +35,15 @@ while meta_eu.meu_objetivo == 'Não alcançado':
 - [x] Django
 - [x] JavaScript
 - [x] Jquery
-- [ ] Ajax
-- [ ] Vue
-- [ ] TypeScript
-- [ ] Analise de dados
+- [x] Ajax
+- [X] Vue
+- [x] TypeScript
+- [x] Analise de dados
 - [ ] AI
+- [ ] ML
+- [ ] Spark
+- [ ] Scala
+- [ ] RabbitMQ
 
 ---
 
