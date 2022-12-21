@@ -1,21 +1,5 @@
 ## Hi there, im Thiago Sabará 👋
 #### Programador Python com experiencia em Analise de dados 
-#### Atividades:
-```python
-from me_in_codes import MyMind
-
-meta_eu = MyMind
-
-while meta_eu.meu_objetivo == 'Não alcançado':
-    meta_eu.dormir()
-    meta_eu.comer(maybe=True)
-    meta_eu.codar()
-    meta_eu.aprender_mais()
-    meta_eu.verificar_objetivo()
-    meta_eu.bora_repetir_tudo()
-
-```
-
 ---
 
 #### Git Stats:
@@ -31,14 +15,14 @@ while meta_eu.meu_objetivo == 'Não alcançado':
 - [x] WebSraping :+1:
 - [x] Analise de Dados :+1:
 - [x] HTML/CSS/Bootstrap :+1:
-- [x] Testes 🎯
+- [x] Tests 🎯
 - [x] Django
 - [x] JavaScript
 - [x] Jquery
 - [x] Ajax
 - [X] Vue
 - [x] TypeScript
-- [x] Analise de dados
+- [x] Data Analytics
 - [ ] AI
 - [ ] ML
 - [ ] Spark
@@ -46,6 +30,73 @@ while meta_eu.meu_objetivo == 'Não alcançado':
 - [ ] RabbitMQ
 
 ---
+### [internal-bug]
+```python
+from me_in_code import MyMind
+
+
+meta_me = MyMind
+
+
+meta_me.learn('Python', techs='until_the_core', mode='self-taught')
+meta_me.learn('Python RPA', techs=[
+                    pyautogui,
+                    selenium,
+                    openpyxl,
+                    xlsxwriter,
+                    win32com,
+                    pyinstaller,
+                    pandas,
+                    sqlalchemy
+                ], mode='self-taught')
+meta_me.learn('Webscraping', techs=[
+                    requests,
+                    scrapy,
+                    beautifulsoup,
+                    selenium,
+                    pandas,
+                    sqlalchemy
+                ], mode='self-taught')
+meta_me.learn('Data Analytics', techs=[
+                    numpy,
+                    matplotlib,
+                    pandas,
+                    sqlalchemy
+                ], mode='self-taught')
+meta_me.learn('Tests', techs=[
+                    pytest,
+                    unittest,
+                ], mode='self-taught')
+meta_me.learn('Django', techs=[
+                    django,
+                    pytest-django,
+                    djangorestframework,
+                    goto
+                ], mode='self-taught')
+meta_me.learn('JavaScript', techs=[
+                    jQuery,
+                    Ajax,
+                    React,
+                    TypeScript
+                ], mode='self-taught')
+meta_me.learn('Vue', techs=[
+                    vue3,
+                    vue2,
+                    vuex,
+                    vuerouter
+                ], mode='self-taught')
+
+while meta_me.my_target_goal is False:
+    meta_me.sleep()
+    meta_eu.eat(maybe=True)
+    meta_eu.code()
+    meta_eu.learn_more(and_more=True)
+    meta_eu.verify_target()
+
+meta_eu.lets_do_it_again(everyday=True)
+
+```
+
 
 ### Libs
 
