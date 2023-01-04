@@ -10,6 +10,9 @@
 </div>
 
 ##### Road to ~~DevPython~~ FullStack Python: 
+- [x] SQL :+1:
+- [x] SQL Server :+1:
+- [x] PostgreSQL
 - [x] python :+1:
 - [x] RPA Python :+1:
 - [x] WebSraping :+1:
@@ -23,11 +26,15 @@
 - [X] Vue
 - [x] TypeScript
 - [x] Data Analytics
-- [ ] AI
-- [ ] ML
-- [ ] Spark
+- [x] AI
+- [x] ML
+- [x] Spark
+- [x] Airflow 
 - [ ] Scala
 - [ ] RabbitMQ
+- [ ] Hadoop
+- [ ] Redis
+- [ ] Kafka
 
 ---
 ### [internal-bug]
