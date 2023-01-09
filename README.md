@@ -30,11 +30,12 @@
 - [x] ML
 - [x] Spark
 - [x] Airflow 
+- [x] Hadoop
+- [x] Kafka
 - [ ] Scala
 - [ ] RabbitMQ
-- [ ] Hadoop
 - [ ] Redis
-- [ ] Kafka
+
 
 ---
 ### [internal-bug]
