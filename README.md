@@ -46,14 +46,18 @@
   * https://github.com/tlsabara/treglog
   
 </div>
----
+
+
+### Certificações:
+
+![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/78706759/232228919-533e4f7a-621f-4767-853f-ff7d68ccdfac.png)
+
 
 ### Badges:
-
 <div>
     <br>
     <a href="https://creds.arruda.io/events/devops_mao_na_massa_github/e3715232-c3c6-4c76-ad49-525bb048b92f">
-        <img  height="100em" src="https://creds.arruda.io/events/devops_mao_na_massa_github/badge.png" alt="DevOps Mão na Massa GitHub" title="DevOps Mão na Massa GitHub" />
+        <img  height="60em" src="https://creds.arruda.io/events/devops_mao_na_massa_github/badge.png" alt="DevOps Mão na Massa GitHub" title="DevOps Mão na Massa GitHub" />
     </a>
 </div>
 
