@@ -15,34 +15,6 @@
   <p>PS: Quase não tem python? kkkkkkkkkk </p>
 </div>
 
-##### Road to ~~DevPython~~ FullStack Python: 
-- [x] SQL 
-- [x] SQL Server 
-- [x] PostgreSQL
-- [x] python 
-- [x] RPA Python 
-- [x] WebSraping
-- [x] Analise de Dados 
-- [x] HTML/CSS/Bootstrap 
-- [x] Tests
-- [x] Django
-- [x] JavaScript
-- [x] Jquery
-- [x] Ajax
-- [X] Vue
-- [x] TypeScript
-- [x] Data Analytics
-- [x] Docker
-- [x] Spark
-- [x] Airflow 
-- [x] Hadoop
-- [ ] Kafka
-- [ ] Scala
-- [ ] RabbitMQ
-- [ ] Redis
-
-
-
 ### Libs
 
 <div>
