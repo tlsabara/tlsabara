@@ -18,17 +18,7 @@
 
 ### Libs
 
-<div>
-
-  
-* **treglog** - A primeirinha!
-  * https://github.com/tlsabara/treglog
-  
-</div>
-
-
-
-
+[CLEAN CODE EM PYTHON](https://github.com/tlsabara/clean-code-python) - Não é minha mas o conteúdo é incrível!
 
 ### Badges:
 <div>
