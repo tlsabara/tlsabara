@@ -9,8 +9,6 @@
 #### Git Stats:
 <div align="left">
   <a href="https://www.linkedin.com/in/tlsabara/">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tlsabara&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  </a><br>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlsabara&layout=compact&langs_count=7&theme=slateorange"/>
   <p>PS: Quase não tem python? kkkkkkkkkk </p>
 
