@@ -18,11 +18,4 @@
 
 [CLEAN CODE EM PYTHON](https://github.com/tlsabara/clean-code-python) - Não é minha mas o conteúdo é incrível!
 
-### Badges:
-<div>
-    <br>
-    <a href="https://creds.arruda.io/events/devops_mao_na_massa_github/e3715232-c3c6-4c76-ad49-525bb048b92f">
-        <img  height="60em" src="https://creds.arruda.io/events/devops_mao_na_massa_github/badge.png" alt="DevOps Mão na Massa GitHub" title="DevOps Mão na Massa GitHub" />
-    </a>
-</div>
 
