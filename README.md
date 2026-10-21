@@ -1,8 +1,6 @@
 ## Hi there, im Thiago Sabará 👋
 #### Programador Python com experiencia em Analise e Tratamento de Dados 
----
-[![autocomplete](https://codeium.com/badges/user/tlsabara/autocomplete)](https://codeium.com/profile/tlsabara)
----
+
 
 ### Certificações:
 ![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/78706759/232228919-533e4f7a-621f-4767-853f-ff7d68ccdfac.png)
