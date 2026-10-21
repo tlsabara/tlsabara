@@ -1,5 +1,5 @@
 ## Hi there, im Thiago Sabará 👋
-#### Programador Python com experiencia em Analise e Tratamento de Dados 
+#### Python Developer | SecDevOps Solutions | Data Analyst 
 
 
 ### Certificações:
